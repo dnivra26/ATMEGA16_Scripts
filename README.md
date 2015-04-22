@@ -1,3 +1,7 @@
-# ATMEGA16_Scripts
+# ATMEGA16 Scripts
 
-sample scripts for atmega16 micro controller
+This repo contains sample programs that runs on ATMEGA16 microcontroller
+
+## Programs
+1. Line Follower
+2. Obstacle Avoider
